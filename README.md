@@ -1,4 +1,4 @@
 # Xezz
-# git clone https://github.com/muryxty/Xenzz
-# cd Xenzz
+# git clone https://github.com/muryxty/Xezz
+# cd Xezz
 # python janda.py
